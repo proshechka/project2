@@ -1,0 +1,35 @@
+.header{
+  width: 1440px;
+  height: 73px;
+  background-color: rgb(245, 244, 244);
+}
+
+.header_block{
+  display: flex; 
+  align-items: center;
+  justify-content: space-between; 
+  padding: 10px;
+}
+
+.header_menu{
+  display: flex;
+  gap: 30px;
+  font-size: 20px;
+  margin-left: 600px;
+}
+
+.header_button{
+  width: 92px;
+  height: 28px;
+  background-color: white;
+  color: #1B365D; 
+  border-radius: 4px; 
+  cursor: pointer; 
+  font-size: 15px;
+  font-weight: 700;
+  margin-right: 30px;
+}
+
+.header a{
+    color: rgb(54, 81, 201);
+}
