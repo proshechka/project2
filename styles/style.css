@@ -1,6 +1,8 @@
 @import "header.css";
 @import "about.css";
-@import "famous.css";
+@import "cities.css";
+@import "places.css";
+@import "footer.css";
 
 .wrapper{
     max-width: 1440px;

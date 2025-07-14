@@ -22,7 +22,7 @@
   width: 92px;
   height: 28px;
   background-color: white;
-  color: #1B365D; 
+  color: #1B365D;
   border-radius: 4px; 
   cursor: pointer; 
   font-size: 15px;
@@ -31,5 +31,5 @@
 }
 
 .header a{
-    color: rgb(54, 81, 201);
+  color: #1B365D;
 }
